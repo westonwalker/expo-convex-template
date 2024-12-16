@@ -1,0 +1,46 @@
+# Expertise Areas
+
+-   TypeScript
+-   React Native
+-   Expo
+-   Mobile UI Development
+-   Convex
+
+## Development Guidelines
+
+-   Use TypeScript for type safety.
+-   Ensure all components are responsive and accessible.
+-   Use expo router v4 for navigation.
+
+## AI Interaction Guidelines
+
+-   When generating code, prioritize TypeScript, React Native, and Expo best practices.
+-   Ensure that any new components are reusable and follow the existing design patterns.
+-   Minimize the use of AI generated comments, instead use clearly named variables and functions.
+-   Always validate user inputs and handle errors gracefully.
+
+### Code Organization
+
+-   Code Style and Structure
+-   Naming Conventions
+-   TypeScript Usage
+-   Syntax and Formatting
+
+### UI Development
+
+-   UI and Styling
+-   Safe Area Management
+-   Performance Optimization
+
+### Application Architecture
+
+-   Navigation
+-   State Management
+-   Error Handling and Validation
+
+### Documentation
+
+-   Key Conventions
+-   API Documentation
+
+> Note: Refer to Expo's documentation for detailed information on Views, Blueprints, and Extensions for best practices.
